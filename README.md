@@ -3,9 +3,23 @@
 Welcome to the repository for Week 1 of our Java learning journey. This week focused on
 building a strong foundation in the fundamental concepts of Java programming.
 
-## 📑 Table of Contents
-| Day | Topic Description | Link to Branch |
-|-----|--------------------|----------------|
+## Table of Contents
+- [Overview](#overview)
+- [Topics Covered](#topics-covered)
+  - [Day 1: Introduction to Java](#day-1-introduction-to-java)
+  - [Day 2: Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators)
+  - [Day 3: Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops)
+  - [Day 4: Arrays](#day-4-arrays)
+  - [Day 5: Strings](#day-5-strings)
+  - [Day 6: Functions (Methods)](#day-6-functions-methods)
+- [Prerequisites](#prerequisites)
+- [How to Use This Repository](#how-to-use-this-repository)
+- [Next Steps](#next-steps)
+
+## 📑 Topics Covered
+
+| Day | Topic Description | 
+|-----|--------------------|
 | Practice | Assisted + Self Problems | [Practice](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice) |
 | Day 1 | [Introduction to Java](#day-1-introduction-to-java) | [Day-1](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1) |
 | Day 2 | [Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators) | [Day-2](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2) |
