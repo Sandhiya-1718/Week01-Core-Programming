@@ -16,7 +16,13 @@ building a strong foundation in the fundamental concepts of Java programming.
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Next Steps](#next-steps)
 
-## 📑 Topics Covered
+## 🧠 Overview
+The first week was dedicated to understanding the core syntax and essential building blocks of
+the Java programming language. We covered how to write simple Java programs, handle
+different types of data, control the flow of execution, and work with fundamental data structures
+like arrays and strings, as well as modularizing code with functions (methods).
+
+## 📘 Topics Covered
 
 | Day | Topic Description | 
 |-----|--------------------|
@@ -28,14 +34,6 @@ building a strong foundation in the fundamental concepts of Java programming.
 | Day 5 | [Strings](#day-5-strings) | [Day-5](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5) |
 | Day 6 - Part 1 | [Functions (Methods)](#day-6-functions-methods)| [Day-6-Buildin-Functions](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions) |
 | Day 6 - Part 2 | Strings Continued | [Day-6-Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings) |
-
-## 🧠 Overview
-The first week was dedicated to understanding the core syntax and essential building blocks of
-the Java programming language. We covered how to write simple Java programs, handle
-different types of data, control the flow of execution, and work with fundamental data structures
-like arrays and strings, as well as modularizing code with functions (methods).
-
-## 📘 Topics Covered
 
 ### Day 1: Introduction to Java
 - What is Java?
