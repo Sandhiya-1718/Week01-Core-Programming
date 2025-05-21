@@ -4,17 +4,17 @@ Welcome to the repository for Week 1 of our Java learning journey. This week foc
 building a strong foundation in the fundamental concepts of Java programming.
 
 ## 📑 Table of Contents
-- [Overview](#overview)
-- [Topics Covered](#topics-covered)
-  - [Day 1: Introduction to Java](#day-1-introduction-to-java)
-  - [Day 2: Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators)
-  - [Day 3: Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops)
-  - [Day 4: Arrays](#day-4-arrays)
-  - [Day 5: Strings](#day-5-strings)
-  - [Day 6: Functions (Methods)](#day-6-functions-methods)
-- [Prerequisites](#prerequisites)
-- [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
+| Day | Topic Description | Link to Branch |
+|-----|--------------------|----------------|
+| Day 1 | [Introduction to Java](#day-1-introduction-to-java) | [Day-1](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1) |
+| Day 2 | [Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators) | [Day-2](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2) |
+| Day 3 | [Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops) | [Day-3](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
+| Day 4 | [Arrays](#day-4-arrays) | [Day-4](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4) |
+| Day 5 | [Strings](#day-5-strings) | [Day-5](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5) |
+| Day 6 - Part 1 | [Functions (Methods)](#day-6-functions-methods)
+- [Prerequisites](#prerequisites) | [Day-6-Buildin-Functions](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions) |
+| Day 6 - Part 2 | Strings Continued | [Day-6-Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings) |
+| Practice | Assisted + Self Problems | [Practice](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice) |
 
 ## 🧠 Overview
 The first week was dedicated to understanding the core syntax and essential building blocks of
