@@ -7,13 +7,13 @@ building a strong foundation in the fundamental concepts of Java programming.
 | Day | Topic Description | Link to Branch |
 |-----|--------------------|----------------|
 | Practice | Assisted + Self Problems | [Practice](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice) |
-| Day 1  | [Introduction to Java](#day-1-introduction-to-java) | [Day-1](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1) |
-| Day 2  | [Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators) | [Day-2](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2) |
-| Day 3  | [Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops) | [Day-3](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
-| Day 4  | [Arrays](#day-4-arrays) | [Day-4](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4) |
-| Day 5  | [Strings](#day-5-strings) | [Day-5](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5) |
-| Day 6 - Part 1  | [Functions (Methods)](#day-6-functions-methods)| [Day-6-Buildin-Functions](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions) |
-| Day 6 - Part 2  | Strings Continued | [Day-6-Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings) |
+| Day 1 | [Introduction to Java](#day-1-introduction-to-java) | [Day-1](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1) |
+| Day 2 | [Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators) | [Day-2](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2) |
+| Day 3 | [Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops) | [Day-3](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
+| Day 4 | [Arrays](#day-4-arrays) | [Day-4](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4) |
+| Day 5 | [Strings](#day-5-strings) | [Day-5](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5) |
+| Day 6 - Part 1 | [Functions (Methods)](#day-6-functions-methods)| [Day-6-Buildin-Functions](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions) |
+| Day 6 - Part 2 | Strings Continued | [Day-6-Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings) |
 
 ## 🧠 Overview
 The first week was dedicated to understanding the core syntax and essential building blocks of
