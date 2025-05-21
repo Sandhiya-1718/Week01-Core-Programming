@@ -77,16 +77,17 @@ This repository is structured to reflect the topics covered each day. You can fi
 notes, or exercises within the respective daily folders (if available). Feel free to explore the
 code, run it, and modify it to deepen your understanding.
 
-| Day | Topic Description | 
-|-----|--------------------|
-| Practice | Assisted + Self Problems | [Practice](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice) |
-| Day 1 | [Introduction to Java](#day-1-introduction-to-java) | [Day-1](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1) |
-| Day 2 | [Variables, Data Types, and Operators](#day-2-variables-data-types-and-operators) | [Day-2](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2) |
-| Day 3 | [Control Flow (Conditional Statements and Loops)](#day-3-control-flow-conditional-statements-and-loops) | [Day-3](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
-| Day 4 | [Arrays](#day-4-arrays) | [Day-4](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4) |
-| Day 5 | [Strings](#day-5-strings) | [Day-5](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5) |
-| Day 6 - Part 1 | [Functions (Methods)](#day-6-functions-methods)| [Day-6-Buildin-Functions](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions) |
-| Day 6 - Part 2 | Strings Continued | [Day-6-Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings) |
+| Day           | Topic Description                                                                 | 
+|---------------|-----------------------------------------------------------------------------------|
+| Practice      | [Assisted + Self Problems](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Practice)          |
+| Day 1         | [Introduction to Java](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-1)                   |
+| Day 2         | [Variables, Data Types, and Operators](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-2)    |
+| Day 3         | [Control Flow (Conditional Statements and Loops)](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-3) |
+| Day 4         | [Arrays](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-4)                                  |
+| Day 5         | [Strings](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-5)                                 |
+| Day 6 - Part 1| [Functions (Methods)](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Buildin-Functions)   |
+| Day 6 - Part 2| [Strings Continued](https://github.com/Sandhiya-1718/Week01-Core-Programming/tree/Day-6-Strings)               |
+
 
 ## ⏭️ Next Steps
 Continue to Week 2 to build upon these foundations by exploring object-oriented programming concepts in Java.
